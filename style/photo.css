@@ -1,0 +1,21 @@
+.slider{
+    width: 80px;
+    margin: 12px 130px;
+}
+/* .text-center{
+    text-align: center;
+} */
+.card{
+    margin: 37px;
+    max-width: 91vw;
+    
+    display: flex;
+    max-width: 500px;
+    
+}
+/* .card_item{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+} */
